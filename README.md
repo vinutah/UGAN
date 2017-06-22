@@ -1,7 +1,11 @@
 # UGAN
 
-Study + Experiments performed during the Summer-2017 ML-reading group, University Of Utah
-School of Computing, Data Group.
+`Study + Experiments performed 
+during the Summer-2017 ML-reading group
+Data Group.
+School of Computing.
+University Of Utah
+`
 
 http://datagroup.cs.utah.edu/
 
@@ -18,7 +22,7 @@ http://datagroup.cs.utah.edu/
 
 ## Setup Instructions for Ubuntu
 
-Yes yoU Gan! --Suresh Venkatasubramanian 
+`Yes yoU Gan! --Suresh Venkatasubramanian` 
 
 ### Prerequisites
 
