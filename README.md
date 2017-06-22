@@ -1,7 +1,13 @@
 # UGAN
-UofU GANS
+
+Study + Experiments performed during the Summer-2017 ML-reading group, University Of Utah
+School of Computing, Data Group.
+
+http://datagroup.cs.utah.edu/
 
 ## Setup Instructions for Ubuntu
+
+Yes yoU Gan! --Suresh Venkatasubramanian 
 
 ### Prerequisites
 
@@ -42,7 +48,6 @@ sudo pip install jupyter
 sudo pip install matplotlib
 ```
 
-
 ### Install Pandas
 
 ```
@@ -60,5 +65,3 @@ sudo pip install tensorflow
 ```
 sudo pip install edward
 ```
-
-
