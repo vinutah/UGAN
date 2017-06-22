@@ -48,6 +48,12 @@ sudo pip install jupyter
 sudo pip install matplotlib
 ```
 
+### Install SciKit Image
+
+```
+sudo pip install -U scikit-image
+```
+
 ### Install Pandas
 
 ```
