@@ -5,9 +5,9 @@ UofU GANS
 
 ### Prerequisites
 
-* Python (Available as part of Ubuntu)
+* Python(Available as part of Ubuntu)
 ```
-~$ python --version
+python --version
 Python 2.7.12
 ```
 * Git
@@ -37,11 +37,6 @@ sudo pip install jupyter
 ```
 
 ### Install TensorFlow
-
-* TensorFlow with CPU support only. 
-* If your system does not have a NVIDIA® GPU, you must install this version. 
-* Note that this version of TensorFlow is typically much easier to install (typically, in 5 or 10 minutes), so even if you have 
-  an NVIDIA GPU, we recommend installing this version first
   
 ```
 sudo pip install tensorflow
