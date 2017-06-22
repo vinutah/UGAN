@@ -9,8 +9,9 @@ http://datagroup.cs.utah.edu/
 
 ### GANesh
 
-* 10800 Images of Ganesh
-* Ganesha was a scribe for Veda Vyasa who was narrating the Mahabharata.
+* `10800 Images of Ganesh`
+* `13 native Features` 
+* `Ganesha was a scribe for Veda Vyasa who was narrating the Mahabharata.`
 
 ![This month's Study on Dataset=GANesha](https://github.com/vinutah/UGAN/blob/master/02_code/ganesha.jpg)
 
