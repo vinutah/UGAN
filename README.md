@@ -5,6 +5,11 @@ School of Computing, Data Group.
 
 http://datagroup.cs.utah.edu/
 
+## Data Set
+
+![This month's Study on Dataset=GANesha](https://github.com/vinutah/UGAN/blob/master/02_code/ganesha.jpg)
+
+
 ## Setup Instructions for Ubuntu
 
 Yes yoU Gan! --Suresh Venkatasubramanian 
