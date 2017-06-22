@@ -5,7 +5,12 @@ School of Computing, Data Group.
 
 http://datagroup.cs.utah.edu/
 
-## Data Set
+## Data Sets
+
+### GANesh
+
+* 10800 Images of Ganesh
+* Ganesha was a scribe for Veda Vyasa who was narrating the Mahabharata.
 
 ![This month's Study on Dataset=GANesha](https://github.com/vinutah/UGAN/blob/master/02_code/ganesha.jpg)
 
