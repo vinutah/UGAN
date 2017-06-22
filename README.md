@@ -30,22 +30,10 @@ sudo apt-get install python-pip
 sudo pip install --upgrade pip
 ```
 
-### Install Jupyter (for notebooks)
+### Install Jupyter
 
 ```
 sudo pip install jupyter
-```
-
-### Install TensorFlow
-  
-```
-sudo pip install tensorflow
-```
-
-### Install Edward
-
-```
-sudo pip install edward
 ```
 
 ### Install Matplotlib
@@ -59,6 +47,18 @@ sudo pip install matplotlib
 
 ```
 sudo pip install pandas
+```
+
+### Install TensorFlow
+  
+```
+sudo pip install tensorflow
+```
+
+### Install Edward
+
+```
+sudo pip install edward
 ```
 
 
