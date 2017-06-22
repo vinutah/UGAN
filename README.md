@@ -1,2 +1,5 @@
 # UGAN
 UofU GANS
+
+# Setup
+
