@@ -13,7 +13,12 @@ http://datagroup.cs.utah.edu/
 
 ### GANesh
 
-* `10800 Images of Ganesh`
+* `10800 Images of Lord Ganesha`
+* `Source Google Images Query using 108 "Alternative" Names for Ganesha
+* `Input Processing` 
+  * Thresholded pixel values to be b/w
+  * Dimentions `150 x 150`
+  * All configurable
 * `13 native Features` 
 * `Ganesha was a scribe for Veda Vyasa who was narrating the Mahabharata.`
 
